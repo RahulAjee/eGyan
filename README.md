@@ -110,6 +110,10 @@ Access the **api-console** via the following command:
 $ hasura api-console
 ```
 
+```
+noted
+```
+
 This will open up Console UI on the browser. You can access it at [http://localhost:9695](http://localhost:9695)
 
 ## License
